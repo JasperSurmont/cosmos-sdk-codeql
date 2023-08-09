@@ -1,1 +1,1 @@
-# Thesis-2023
+# cosmos-sdk-codeql
