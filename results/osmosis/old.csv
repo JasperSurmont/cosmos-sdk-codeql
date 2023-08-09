@@ -1,0 +1,63 @@
+Calling the system time,"warning","/app/apptesting/test_suite.go",61,FP,1
+Calling the system time,"warning","/tests/e2e/configurer/base.go",181,FP,1
+Calling the system time,"warning","/tests/e2e/configurer/chain/node.go",42,FP,1
+Calling the system time,"warning","/tests/e2e/configurer/chain/commands.go",439,FP,1
+Directly using the bech32 constants,"warning","/app/params/config.go",19,FP,7
+Directly using the bech32 constants,"warning","/app/params/config.go",24,FP,7
+Directly using the bech32 constants,"warning","/app/params/config.go",26,FP,7
+Directly using the bech32 constants,"warning","/app/params/config.go",28,FP,7
+Directly using the bech32 constants,"warning","/app/params/config.go",30,FP,7
+Directly using the bech32 constants,"warning","/app/params/config.go",32,FP,7
+Directly using the bech32 constants,"warning","/app/params/config.go",55,FP,7
+Floating point arithmetic,"recommendation","/simulation/simtypes/random/sdkrand.go",163,FP,1
+Floating point arithmetic,"recommendation","/simulation/simtypes/random/sdkrand.go",170,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/chain/chain.go",69,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/chain/chain.go",69,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/chain/chain.go",69,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/chain/chain.go",70,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/chain/chain.go",70,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/chain/chain.go",70,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/chain/chain.go",70,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/current.go",49,FP,1
+Floating point arithmetic,"recommendation","/tests/e2e/configurer/current.go",49,FP,1
+Iteration over map,"warning","/app/app.go",477,FP,4
+Iteration over map,"warning","/app/blocked.go",13,FP,4
+Iteration over map,"warning","/app/modules.go",276,FP,4
+Iteration over map,"warning","/app/upgrades/v5/upgrades.go",33,FP,4
+Iteration over map,"warning","/cmd/osmosisd/cmd/balances_from_state_export.go",279,FP,1
+Iteration over map,"warning","/cmd/osmosisd/cmd/balances_from_state_export.go",372,FP,1
+Iteration over map,"warning","/osmoutils/module_account.go",57,FP,4
+Iteration over map,"warning","/osmoutils/osmocli/cli_tester.go",30,FP,1
+Iteration over map,"warning","/osmoutils/osmocli/cli_tester.go",38,FP,1
+Iteration over map,"warning","/osmoutils/osmocli/flag_advice.go",42,FP,1
+Iteration over map,"warning","/osmoutils/osmocli/flag_advice.go",47,FP,1
+Iteration over map,"warning","/osmoutils/partialord/internal/dag/dag.go",43,FP,4
+Iteration over map,"warning","/osmoutils/partialord/internal/dag/dag.go",89,FP,4
+Iteration over map,"warning","/osmoutils/partialord/internal/dag/dag.go",248,FP,4
+Iteration over map,"warning","/tests/e2e/containers/containers.go",346,FP,1
+Iteration over map,"warning","/x/gamm/keeper/migrate.go",280,FP,4
+Iteration over map,"warning","/x/incentives/keeper/distribute.go",256,FP,4
+Iteration over map,"warning","/x/incentives/keeper/gauge.go",245,FP,4
+Iteration over map,"warning","/x/pool-incentives/keeper/distr.go",178,FP,4
+Iteration over map,"warning","/x/protorev/keeper/epoch_hook.go",76,FP,4
+Iteration over map,"warning","/x/protorev/keeper/epoch_hook.go",77,FP,4
+Iteration over map,"warning","/x/twap/types/twapmock/amminterface.go",64,FP,4
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/epochs/keeper/abci.go",16,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/epochs/module.go",162,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/lockup/abci.go",25,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/lockup/abci.go",28,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/lockup/module.go",186,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/superfluid/abci.go",12,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/superfluid/abci.go",14,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/superfluid/abci.go",17,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/superfluid/module.go",193,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/twap/logic.go",107,TP,
+Panic in BeginBock or EndBlock consensus methods,"warning","/x/twap/twapmodule/module.go",132,TP,
+Sensitive package import,"recommendation","/app/app.go",9,FP,1
+Sensitive package import,"recommendation","/osmoutils/cache_ctx.go",6,Unknown,2
+Sensitive package import,"recommendation","/osmoutils/generic_helper.go",3,Unknown,2
+Sensitive package import,"recommendation","/osmoutils/module_account.go",6,Unknown,2
+Sensitive package import,"recommendation","/osmoutils/osmocli/parsers.go",5,FP,1
+Sensitive package import,"recommendation","/osmoutils/osmocli/query_cmd_wrap.go",6,FP,1
+Sensitive package import,"recommendation","/osmoutils/slice_helper.go",4,Unknown,2
+Sensitive package import,"recommendation","/simulation/simtypes/random/sdkrand.go",9,FP,1

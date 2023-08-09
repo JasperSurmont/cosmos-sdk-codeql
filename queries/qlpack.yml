@@ -1,0 +1,6 @@
+---
+library: false
+name: cosmos-sdk/abci-queries
+version: 0.0.1
+dependencies:
+  codeql/go-all: 0.5.0

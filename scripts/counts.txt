@@ -1,0 +1,12 @@
+axelar-core: 3096
+canine-chain: 408
+stride: 360
+desmos: 883
+panacea-core: 572
+osmosis: 1818
+chain-main: 158
+fetchd: 2
+dig: 2
+gaia: 9
+regen-ledger: 807
+agoric-sdk: 127

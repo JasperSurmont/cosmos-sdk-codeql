@@ -1,0 +1,3 @@
+"Panic in BeginBock or EndBlock consensus methods","/x/oracle/abci.go","21",TP,
+"Panic in BeginBock or EndBlock consensus methods","/x/oracle/abci.go","27",TP,
+"Using platform dependent types","/x/did/types/did.go","71",TP,

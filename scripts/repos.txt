@@ -1,0 +1,11 @@
+https://github.com/axelarnetwork/axelar-core
+https://github.com/JackalLabs/canine-chain
+https://github.com/crypto-org-chain/chain-main
+https://github.com/desmos-labs/desmos
+https://github.com/notional-labs/dig
+https://github.com/fetchai/fetchd
+https://github.com/osmosis-labs/osmosis
+https://github.com/medibloc/panacea-core
+https://github.com/regen-network/regen-ledger
+https://github.com/Stride-Labs/stride
+https://github.com/cosmos/gaia

@@ -1,0 +1,35 @@
+"Directly using the bech32 constants","warning","/app/app.go","177",TP,
+"Directly using the bech32 constants","warning","/app/app.go","443",TP,
+"Directly using the bech32 constants","warning","/app/app.go","1070",TP,
+"Directly using the bech32 constants","warning","/app/app.go","1070",TP,
+"Directly using the bech32 constants","warning","/app/app.go","1071",TP,
+"Directly using the bech32 constants","warning","/app/app.go","1071",TP,
+"Directly using the bech32 constants","warning","/app/app.go","1072",TP,
+"Directly using the bech32 constants","warning","/app/app.go","1072",TP,
+"Iteration over map","warning","/app/app.go","1118",FP,4
+"Iteration over map","warning","/app/app.go","1263",FP,4
+"Iteration over map","warning","/testutil/ibctesting/coordinator.go","194",FP,1
+"Iteration over map","warning","/testutil/storetesting/context.go","17",FP,1
+"Iteration over map","warning","/testutil/storetesting/context.go","20",FP,1
+"Iteration over map","warning","/testutil/storetesting/context.go","23",FP,1
+"Iteration over map","warning","/x/posts/keeper/polls.go","59",FP,4
+"Iteration over map","warning","/x/profiles/legacy/v4/store.go","95",FP,4
+"Iteration over map","warning","/x/subspaces/legacy/v2/permissions.go","81",FP,4
+"Iteration over map","warning","/x/subspaces/legacy/v2/permissions.go","121",FP,4
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/posts/abci.go","15",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/posts/module.go","193",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/profiles/abci.go","13",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/profiles/module.go","192",TP,
+"Sensitive package import","recommendation","/pkg/obi/decode.go","7",FP,1
+"Sensitive package import","recommendation","/pkg/obi/encode.go","6",TP,
+"Sensitive package import","recommendation","/pkg/obi/schema.go","6",FP,1
+"Calling the system time","warning","/x/posts/simulation/genesis.go","136",FP,1
+"Calling the system time","warning","/x/posts/simulation/operations_polls.go","55",FP,1
+"Calling the system time","warning","/x/posts/simulation/operations_polls.go","67",FP,1
+"Calling the system time","warning","/x/posts/simulation/operations_posts.go","169",FP,1
+"Calling the system time","warning","/x/posts/simulation/utils.go","44",FP,1
+"Calling the system time","warning","/x/posts/simulation/utils.go","79",FP,1
+"Calling the system time","warning","/x/profiles/simulation/operations_chain_links.go","70",FP,1
+"Calling the system time","warning","/x/profiles/simulation/utils.go","84",FP,1
+"Calling the system time","warning","/x/reports/simulation/genesis.go","124",FP,1
+"Calling the system time","warning","/x/subspaces/simulation/genesis.go","48",FP,1

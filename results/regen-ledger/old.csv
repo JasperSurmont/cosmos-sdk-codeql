@@ -1,0 +1,46 @@
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"12",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"14",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"16",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"18",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"20",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"22",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"27",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"27",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"28",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"28",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"29",FP,7
+"Directly using the bech32 constants","warning",/app/addr_prefixes.go,"29",FP,7
+"Directly using the bech32 constants","warning",/app/app.go,"325",FP,7
+"Iteration over map","warning",/app/app.go,"709",FP,4
+"Iteration over map","warning",/app/app.go,"843",FP,4
+"Iteration over map","warning",/app/export.go,"36",FP,4
+"Iteration over map","warning",/x/data/iri.go,"109",FP,4
+"Iteration over map","warning",/x/ecocredit/base/keeper/invariants.go,"59",FP,1
+"Iteration over map","warning",/x/ecocredit/basket/keeper/invariants.go,"42",FP,3
+"Iteration over map","warning",/x/ecocredit/genesis/genesis.go,"464",FP,6
+"Sensitive package import","recommendation",/api/regen/data/v1/doc.pulsar.go,"7",FP,5
+"Sensitive package import","recommendation",/api/regen/data/v1/events.pulsar.go,"11",FP,5
+"Sensitive package import","recommendation",/api/regen/data/v1/query.pulsar.go,"14",FP,5
+"Sensitive package import","recommendation",/api/regen/data/v1/state.pulsar.go,"13",FP,5
+"Sensitive package import","recommendation",/api/regen/data/v1/tx.pulsar.go,"13",FP,5
+"Sensitive package import","recommendation",/api/regen/data/v1/types.pulsar.go,"11",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/basket/v1/doc.pulsar.go,"7",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/basket/v1/events.pulsar.go,"11",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/basket/v1/query.pulsar.go,"14",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/basket/v1/state.pulsar.go,"14",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/basket/v1/tx.pulsar.go,"14",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/basket/v1/types.pulsar.go,"13",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/marketplace/v1/doc.pulsar.go,"7",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/marketplace/v1/events.pulsar.go,"11",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/marketplace/v1/query.pulsar.go,"14",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/marketplace/v1/state.pulsar.go,"13",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/marketplace/v1/tx.pulsar.go,"15",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/marketplace/v1/types.pulsar.go,"12",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/v1/doc.pulsar.go,"7",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/v1/events.pulsar.go,"11",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/v1/query.pulsar.go,"15",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/v1/state.pulsar.go,"14",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/v1/tx.pulsar.go,"15",FP,5
+"Sensitive package import","recommendation",/api/regen/ecocredit/v1/types.pulsar.go,"13",FP,5
+"Sensitive package import","recommendation",/x/data/types.go,"4",TP,
+"Calling the system time","warning",/app/testsuite/suite.go,"27",FP,1

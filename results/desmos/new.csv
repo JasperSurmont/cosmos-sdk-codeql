@@ -1,0 +1,8 @@
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/posts/keeper/alias_functions.go","170",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/posts/types/keys.go","164",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/posts/types/keys.go","169",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/profiles/keeper/alias_functions.go","148",TP,
+"Using platform dependent types","recommendation","/x/posts/types/keys.go","147",FP,8
+"Using platform dependent types","recommendation","/x/posts/types/keys.go","148",FP,8
+"Using platform dependent types","recommendation","/x/posts/types/models.go","646",FP,8
+"Sensitive package import","recommendation","/pkg/obi/encode.go","6",TP,

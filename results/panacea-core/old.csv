@@ -1,0 +1,28 @@
+"Iteration over map","warning","/app/app.go","643",FP,4
+"Iteration over map","warning","/app/app.go","746",FP,4
+"Iteration over map","warning","/cmd/panacead/cmd/root.go","312",FP,1
+"Iteration over map","warning","/types/testsuite/suite.go","99",FP,1
+"Iteration over map","warning","/types/testsuite/suite.go","119",FP,1
+"Iteration over map","warning","/x/aol/genesis.go","13",FP,6
+"Iteration over map","warning","/x/aol/genesis.go","19",FP,6
+"Iteration over map","warning","/x/aol/genesis.go","25",FP,6
+"Iteration over map","warning","/x/aol/genesis.go","31",FP,6
+"Iteration over map","warning","/x/aol/types/genesis.go","25",FP,6
+"Iteration over map","warning","/x/aol/types/genesis.go","31",FP,6
+"Iteration over map","warning","/x/aol/types/genesis.go","40",FP,6
+"Iteration over map","warning","/x/aol/types/genesis.go","49",FP,6
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","152",FP,5
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","178",FP,5
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","204",FP,5
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","230",FP,5
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","276",FP,5
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","289",FP,5
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","302",FP,5
+"Iteration over map","warning","/x/aol/types/genesis.pb.go","315",FP,5
+"Iteration over map","warning","/x/did/genesis.go","12",FP,6
+"Iteration over map","warning","/x/did/types/genesis.go","16",FP,6
+"Iteration over map","warning","/x/did/types/genesis.pb.go","119",FP,5
+"Iteration over map","warning","/x/did/types/genesis.pb.go","165",FP,5
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/oracle/abci.go","12",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/oracle/module.go","158",TP,
+"Calling the system time","warning","/cmd/panacead/cmd/dep/jwt.go","80",FP,1

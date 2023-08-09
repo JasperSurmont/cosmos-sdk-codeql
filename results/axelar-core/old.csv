@@ -1,0 +1,92 @@
+"Floating point arithmetic","recommendation","/utils/backoff.go","16",FP,1
+"Floating point arithmetic","recommendation","/utils/backoff.go","16",FP,1
+"Floating point arithmetic","recommendation","/utils/backoff.go","16",FP,1
+"Floating point arithmetic","recommendation","/utils/backoff.go","16",FP,1
+"Floating point arithmetic","recommendation","/utils/backoff.go","28",FP,1
+"Floating point arithmetic","recommendation","/utils/backoff.go","28",FP,1
+"Floating point arithmetic","recommendation","/utils/backoff.go","28",FP,1
+"Floating point arithmetic","recommendation","/utils/backoff.go","28",FP,1
+"Spawning a Go routine","recommendation","/sdk-utils/broadcast/backlog.go","32",FP,1
+"Spawning a Go routine","recommendation","/sdk-utils/broadcast/broadcast.go","334",FP,1
+"Spawning a Go routine","recommendation","/sdk-utils/broadcast/pipeline.go","30",FP,1
+"Spawning a Go routine","recommendation","/testutils/fake/blockchain.go","99",FP,1
+"Spawning a Go routine","recommendation","/testutils/fake/blockchain.go","136",FP,1
+"Spawning a Go routine","recommendation","/testutils/fake/blockchain.go","138",FP,1
+"Spawning a Go routine","recommendation","/testutils/fake/blockchain.go","157",FP,1
+"Spawning a Go routine","recommendation","/testutils/fake/blockchain.go","283",FP,1
+"Spawning a Go routine","recommendation","/vald/start.go","126",TP,
+"Iteration over map","warning","/app/app.go","783",FP,1
+"Iteration over map","warning","/cmd/axelard/cmd/utils/utils.go","23",FP,1
+"Iteration over map","warning","/testutils/fake/store.go","55",FP,1
+"Iteration over map","warning","/testutils/fake/store.go","76",FP,1
+"Iteration over map","warning","/testutils/fake/store.go","119",FP,1
+"Iteration over map","warning","/testutils/fake/store.go","215",FP,1
+"Iteration over map","warning","/utils/queuer.go","162",TP,
+"Iteration over map","warning","/utils/queuer.go","175",TP,
+"Iteration over map","warning","/utils/queuer.pb.go","150",FP,5
+"Iteration over map","warning","/utils/queuer.pb.go","235",FP,5
+"Iteration over map","warning","/x/axelarnet/keeper/keeper.go","214",TP,
+"Iteration over map","warning","/x/axelarnet/types/evm_translator.go","177",TP,
+"Iteration over map","warning","/x/axelarnet/types/genesis.pb.go","134",FP,5
+"Iteration over map","warning","/x/axelarnet/types/genesis.pb.go","250",FP,5
+"Iteration over map","warning","/x/axelarnet/types/query.pb.go","181",FP,5
+"Iteration over map","warning","/x/axelarnet/types/query.pb.go","227",FP,5
+"Iteration over map","warning","/x/evm/keeper/chainKeeper.go","937",TP,
+"Iteration over map","warning","/x/evm/keeper/chainKeeper.go","957",TP,
+"Iteration over map","warning","/x/evm/types/contractsgen/generate.go","67",FP,1
+"Iteration over map","warning","/x/evm/types/query.pb.go","2281",FP,5
+"Iteration over map","warning","/x/evm/types/query.pb.go","2416",FP,5
+"Iteration over map","warning","/x/evm/types/query.pb.go","3340",FP,5
+"Iteration over map","warning","/x/evm/types/query.pb.go","3400",FP,5
+"Iteration over map","warning","/x/multisig/keeper/genesis.go","26",FP,6
+"Iteration over map","warning","/x/multisig/types/genesis.go","63",FP,6
+"Iteration over map","warning","/x/multisig/types/events.pb.go","1007",FP,5
+"Iteration over map","warning","/x/multisig/types/events.pb.go","1431",FP,5
+"Iteration over map","warning","/x/multisig/types/keygen.go","221",TP,
+"Iteration over map","warning","/x/multisig/types/signing.go","89",TP,
+"Iteration over map","warning","/x/multisig/types/signing.go","210",TP,
+"Iteration over map","warning","/x/multisig/types/types.pb.go","530",FP,5
+"Iteration over map","warning","/x/multisig/types/types.pb.go","601",FP,5
+"Iteration over map","warning","/x/multisig/types/types.pb.go","686",FP,5
+"Iteration over map","warning","/x/multisig/types/types.pb.go","880",FP,5
+"Iteration over map","warning","/x/multisig/types/types.pb.go","919",FP,5
+"Iteration over map","warning","/x/multisig/types/types.pb.go","947",FP,5
+"Iteration over map","warning","/x/snapshot/exported/types.go","62",TP,
+"Iteration over map","warning","/x/snapshot/exported/types.go","112",TP,
+"Iteration over map","warning","/x/snapshot/exported/types.pb.go","230",FP,5
+"Iteration over map","warning","/x/snapshot/exported/types.pb.go","311",FP,5
+"Iteration over map","warning","/x/tss/types/types.pb.go","679",FP,5
+"Iteration over map","warning","/x/tss/types/types.pb.go","896",FP,5
+"Iteration over map","warning","/x/vote/types/types.pb.go","131",FP,5
+"Iteration over map","warning","/x/vote/types/types.pb.go","213",FP,5
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/axelarnet/abci.go","22",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/axelarnet/abci.go","23",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/axelarnet/abci.go","27",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/axelarnet/abci.go","29",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/axelarnet/abci.go","33",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/axelarnet/abci.go","63",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/axelarnet/module.go","188",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/evm/abci.go","715",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/evm/abci.go","716",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/evm/module.go","176",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/multisig/abci.go","21",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/multisig/abci.go","22",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/multisig/module.go","160",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/nexus/abci.go","22",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/nexus/module.go","143",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/reward/abci.go","21",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/reward/abci.go","22",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/reward/module.go","170",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/tss/abci.go","21",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/tss/module.go","147",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/vote/abci.go","74",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/vote/module.go","133",TP,
+"Sensitive package import","recommendation","/vald/config/decoding.go","4",TP,
+"Sensitive package import","recommendation","/x/evm/types/types.go","9",TP,
+"Calling the system time","warning","/testutils/fake/blockchain.go","160",FP,1
+"Calling the system time","warning","/testutils/fake/blockchain.go","179",FP,1
+"Calling the system time","warning","/testutils/fake/blockchain.go","186",FP,1
+"Calling the system time","warning","/testutils/rand/rand.go","24",FP,1
+"Calling the system time","warning","/vald/start.go","361",TP,
+"Calling the system time","warning","/x/multisig/types/testutils/rand.go","82",FP,1
+"Calling the system time","warning","/x/snapshot/exported/testutils/rand.go","31",FP,1

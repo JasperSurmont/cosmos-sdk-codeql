@@ -1,0 +1,5 @@
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/claim/keeper/abci.go","11",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/claim/keeper/abci.go","21",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/claim/keeper/claim.go","835",TP,
+"Sensitive package import","recommendation","/utils/module_account.go","10",TP,
+"Directly using the bech32 constants","warning","/cmd/strided/config/config.go","17",FP,7

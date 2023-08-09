@@ -1,0 +1,1 @@
+"Iteration over map","Iteration over map is non-deterministic and could cause issues in consensus-critical code.","warning","Iteration over map may be a possible source of non-determinism","/app/app.go","259","2","261","2"

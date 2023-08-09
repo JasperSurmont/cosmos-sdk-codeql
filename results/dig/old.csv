@@ -1,0 +1,14 @@
+"Directly using the bech32 constants","warning","/app/app.go","338",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","55",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","57",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","59",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","61",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","63",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","65",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","128",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","129",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","129",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","130",FP,7
+"Directly using the bech32 constants","warning","/cmd/digd/cmd/root.go","130",FP,7
+"Iteration over map","warning","/app/app.go","757",FP,4
+"Iteration over map","warning","/app/app.go","855",FP,4

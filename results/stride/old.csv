@@ -1,0 +1,21 @@
+"Directly using the bech32 constants","warning","/app/test_setup.go","26",FP,1
+"Directly using the bech32 constants","warning","/app/test_setup.go","36",FP,1
+"Directly using the bech32 constants","warning","/app/test_setup.go","36",FP,1
+"Directly using the bech32 constants","warning","/app/test_setup.go","37",FP,1
+"Directly using the bech32 constants","warning","/app/test_setup.go","37",FP,1
+"Directly using the bech32 constants","warning","/utils/utils.go","203",FP,3
+"Iteration over map","warning","/app/apptesting/test_helpers.go","365",FP,1
+"Iteration over map","warning","/app/app.go","1040",FP,4
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/claim/keeper/abci.go","11",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/claim/keeper/abci.go","19",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/claim/keeper/abci.go","21",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/claim/module.go","153",TP,
+"Sensitive package import","recommendation","/testutil/nullify/nullify.go","5",FP,1
+"Sensitive package import","recommendation","/testutil/nullify/nullify.go","6",FP,1
+"Sensitive package import","recommendation","/utils/module_account.go","10",TP,
+"Calling the system time","warning","/testutil/keeper/claim.go","17",FP,1
+"Calling the system time","warning","/testutil/keeper/epochs.go","17",FP,1
+"Calling the system time","warning","/testutil/keeper/icacallbacks.go","17",FP,1
+"Calling the system time","warning","/testutil/keeper/interchainquery.go","17",FP,1
+"Calling the system time","warning","/testutil/keeper/records.go","17",FP,1
+"Calling the system time","warning","/testutil/keeper/stakeibc.go","17",FP,1

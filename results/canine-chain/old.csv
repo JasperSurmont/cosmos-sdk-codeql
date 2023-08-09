@@ -1,0 +1,4 @@
+"Iteration over map","warning","/app/app.go","1075",FP,4
+"Iteration over map","warning","/app/app.go","1191",FP,4
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/jklmint/abci.go","16",TP,
+"Panic in BeginBock or EndBlock consensus methods","warning","/x/jklmint/module.go","176",TP,
