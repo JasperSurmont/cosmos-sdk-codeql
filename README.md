@@ -5,9 +5,11 @@ Most of this repository is based on [this](https://github.com/crypto-com/cosmos-
 ## Usage
 
 Using the CodeQL CLI, you can download the query pack using:
+
 ```codeql pack download jaspersurmont/cosmos-sdk-codeql```
 
 and afterwards use it to analyze a database:
+
 ```codeql database analyze <database> jaspersurmont/cosmos-sdk-cdoeql:<path>```
 
 - `<database>`: The CodeQL database of the project you wish to analyze
