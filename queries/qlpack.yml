@@ -1,6 +1,16 @@
 ---
 library: false
-name: cosmos-sdk/abci-queries
-version: 0.0.1
+name: jaspersurmont/cosmos-sdk-codeql
+version: 1.0.0
+description: Detect common vulnerabilities in Cosmos-sdk based blockchains.
 dependencies:
   codeql/go-all: 0.5.0
+default-suite:
+  - query: bech32Constants.ql
+  - query: beginendblockPanic.ql
+  - query: floatingPoint.ql
+  - query: goroutine.ql
+  - query: mapIteration.ql
+  - query: platformDependentTypes.ql
+  - query: sensitiveImport.ql
+  - query: systemTime.ql
