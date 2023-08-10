@@ -10,7 +10,7 @@ Using the CodeQL CLI, you can download the query pack using:
 
 and afterwards use it to analyze a database:
 
-```codeql database analyze <database> jaspersurmont/cosmos-sdk-cdoeql:<path>```
+```codeql database analyze <database> jaspersurmont/cosmos-sdk-codeql:<path>```
 
 - `<database>`: The CodeQL database of the project you wish to analyze
 - `<path>`: An optional path to a specific query
