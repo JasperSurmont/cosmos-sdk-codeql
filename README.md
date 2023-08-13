@@ -23,3 +23,19 @@ The results directory contains a comparison of this query suite with [crypto-com
 Refer to [rule-statistics.ods](./results/rule-statistics.ods) for the spreadsheet. 
 
 For more details, the results of a specific project are located in an individual directory (like [gaia](./results/gaia)). Use the [result-types.md](./results/result-types.md) for the explanation.
+
+### Repositories
+These are links to the repositories that were used to test the CodeQL queries on.
+
+
+- [Axelar Core](https://github.com/axelarnetwork/axelar-core)
+- [Osmosis](https://github.com/osmosis-labs/osmosis)
+- [Gaia](https://github.com/cosmos/gaia)
+- [Desmos](https://github.com/desmos-labs/desmos)
+- [Dig](https://github.com/notional-labs/dig)
+- [Fetch.ai](https://github.com/fetchai/fetchd)
+- [Stride](https://github.com/stride-labs/stride)
+- [Regen](https://github.com/regen-network/regen-ledger)
+- [MediBloc](https://github.com/medibloc/panacea-core)
+- [Crypto.org](https://github.com/crypto-org-chain/chain-main)
+- [Jackal](https://github.com/JackalLabs/canine-chain)
