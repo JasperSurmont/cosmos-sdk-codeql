@@ -1,6 +1,10 @@
-# cosmos-sdk-codeql
+# Cosmos-sdk-codeql
 
-Most of this repository is based on [this](https://github.com/crypto-com/cosmos-sdk-codeql) repository. This repository mainly contains updated and one additional query. The updates primarily consist of improvements to the precision, significantly reducing false positives in many projects. 
+This repository contains the code, specifically, an updated query along with an additional query, as mentioned in this paper: 
+
+Jasper Surmont, Weihong Wang and Tom Van Cutsem: **"Static Application Security Testing of Consensus-Critical Code in the Cosmos Network."** - [http://arxiv.org/abs/2308.10613]
+
+Much of the content in this repository is built upon the [crypto-com/cosmos-sdk-codeql](https://github.com/crypto-com/cosmos-sdk-codeql) repository. The updates primarily focus on precision enhancements, substantially reducing false positives across various projects.
 
 ## Usage
 
@@ -19,10 +23,10 @@ For more information, visit the [CodeQL documentation](https://docs.github.com/e
 
 ## Results
 
-The results directory contains a comparison of this query suite with [crypto-com's suite](https://github.com/crypto-com/cosmos-sdk-codeql) based on the amount of false and true positives tested on 11 Cosmos based blockchains.
+The [results](https://github.com/JasperSurmont/cosmos-sdk-codeql/tree/main/results) directory contains a comparison of this query suite with [crypto-com's suite](https://github.com/crypto-com/cosmos-sdk-codeql) based on the amount of false and true positives tested on 11 Cosmos-based blockchains.
 Refer to [rule-statistics.ods](./results/rule-statistics.ods) for the spreadsheet. 
 
-For more details, the results of a specific project are located in an individual directory (like [gaia](./results/gaia)). Use the [result-types.md](./results/result-types.md) for the explanation.
+For more details, the results of a specific project are located in an individual directory (like [Gaia](./results/gaia)). Use the [result-types.md](./results/result-types.md) for the explanation.
 
 ### Repositories
 These are links to the repositories that were used to test the CodeQL queries on.
